@@ -1,0 +1,6 @@
+[submodule "UnixLabs"]
+	path = UnixLabs
+	url = git@github.com:nirgeier/UnixLabs.git
+[submodule "git-scripts"]
+	path = git-scripts
+	url = git@github.com:nirgeier/git-scripts.git
